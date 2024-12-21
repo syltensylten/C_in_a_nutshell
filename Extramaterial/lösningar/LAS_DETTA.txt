@@ -1,0 +1,5 @@
+Programmen finns i textfiler kodade enligt Latin_1.
+Det betyder att det kan bli problem med "svenska" tecken om din editor utnyttjar UTF-8.
+Om detta skulle ske rekommenderas att du byter till Latin_1 i editorn 
+eller att du lagrar filerna med UTF-8-format.
+Vissa uppgifter som behandlar texter kan dessutom vara Latin_1 -specifika.

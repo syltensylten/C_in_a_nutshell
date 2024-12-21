@@ -1,0 +1,7 @@
+/* 3.1 */
+Följande är tillåta identifierare:
+nr4      NR4       nr_4
+_nr4     IDENT     ident       identi
+identifierare
+
+Den sista kan vara problematisk som externt namn i ett äldre system.

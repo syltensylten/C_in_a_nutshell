@@ -1,0 +1,2 @@
+175 decimalt == 0000000010101111 binärt
+-4  decimalt == 1111111111111100 binärt
